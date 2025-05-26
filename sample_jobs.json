@@ -1,0 +1,72 @@
+[
+  {
+    "job_title": "Senior Python Developer",
+    "company": "TechCorp Inc",
+    "location": "San Francisco, CA",
+    "description": "We are seeking a Senior Python Developer to join our dynamic team. You will be responsible for developing scalable web applications using Python, Django, and Flask frameworks. Experience with cloud platforms like AWS and containerization technologies like Docker is highly preferred.",
+    "requirements": "5+ years Python experience, Django/Flask, AWS, Docker, REST APIs, PostgreSQL, Git"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "DataFlow Analytics",
+    "location": "New York, NY",
+    "description": "Join our data science team to build machine learning models and extract insights from large datasets. You'll work with Python, R, SQL, and various ML frameworks to solve complex business problems and drive data-driven decision making.",
+    "requirements": "PhD/MS in Data Science, Python, R, SQL, Machine Learning, TensorFlow/PyTorch, Statistics, Pandas, NumPy"
+  },
+  {
+    "job_title": "Full Stack JavaScript Developer",
+    "company": "WebSolutions Ltd",
+    "location": "Austin, TX",
+    "description": "We're looking for a Full Stack JavaScript Developer to work on modern web applications. You'll be working with React, Node.js, Express, and MongoDB to create responsive and scalable applications for our clients.",
+    "requirements": "3+ years JavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git, RESTful APIs"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "company": "CloudTech Systems",
+    "location": "Seattle, WA",
+    "description": "Seeking a DevOps Engineer to manage our cloud infrastructure and deployment pipelines. You'll work with AWS, Kubernetes, Docker, and CI/CD tools to ensure smooth application deployment and monitoring.",
+    "requirements": "AWS/Azure, Kubernetes, Docker, Jenkins/GitLab CI, Linux, Python/Bash scripting, Terraform, Monitoring tools"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "AI Innovations",
+    "location": "Boston, MA",
+    "description": "Join our ML team to deploy machine learning models into production. You'll work on model optimization, A/B testing, and building ML pipelines using Python, TensorFlow, and cloud platforms.",
+    "requirements": "MS in CS/ML, Python, TensorFlow/PyTorch, MLOps, AWS/GCP, Docker, Kubernetes, SQL, Statistics"
+  },
+  {
+    "job_title": "Frontend React Developer",
+    "company": "DesignFirst Agency",
+    "location": "Los Angeles, CA",
+    "description": "We need a talented Frontend Developer specializing in React to create beautiful and intuitive user interfaces. You'll collaborate with designers and backend developers to deliver exceptional user experiences.",
+    "requirements": "3+ years React, JavaScript ES6+, HTML5, CSS3, SASS, Webpack, Git, RESTful APIs, Responsive Design"
+  },
+  {
+    "job_title": "Backend Java Developer",
+    "company": "Enterprise Solutions",
+    "location": "Chicago, IL",
+    "description": "Looking for a Backend Java Developer to work on enterprise-level applications. You'll be developing microservices using Spring Boot, working with databases, and ensuring high performance and scalability.",
+    "requirements": "5+ years Java, Spring Boot, Microservices, SQL, REST APIs, Maven/Gradle, JUnit, Git, Docker"
+  },
+  {
+    "job_title": "Cloud Architect",
+    "company": "CloudFirst Consulting",
+    "location": "Denver, CO",
+    "description": "Seeking an experienced Cloud Architect to design and implement cloud solutions for our clients. You'll work with AWS, Azure, and GCP to create scalable, secure, and cost-effective cloud architectures.",
+    "requirements": "7+ years cloud experience, AWS/Azure/GCP certifications, Terraform, Kubernetes, Security best practices, Architecture design"
+  },
+  {
+    "job_title": "QA Automation Engineer",
+    "company": "TestTech Inc",
+    "location": "Phoenix, AZ",
+    "description": "Join our QA team to develop and maintain automated testing frameworks. You'll create test scripts, perform API testing, and ensure quality across web and mobile applications using various testing tools.",
+    "requirements": "Selenium WebDriver, Python/Java, API testing, Postman, TestNG/JUnit, CI/CD, Git, Test automation frameworks"
+  },
+  {
+    "job_title": "Product Manager - Tech",
+    "company": "StartupXYZ",
+    "location": "Remote",
+    "description": "We're seeking a Technical Product Manager to lead product development and strategy. You'll work closely with engineering teams, analyze user data, and drive product roadmap decisions in a fast-paced startup environment.",
+    "requirements": "5+ years product management, Technical background, Agile/Scrum, Data analysis, User research, Roadmap planning, Stakeholder management"
+  }
+]
